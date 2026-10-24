@@ -21,6 +21,7 @@ Flutter 3.x (Dart 3.x) — kendi sürümünüzü `flutter --version` ile yazın.
 - `assets/images/banner.png` — Banner görseli
 
 ## Ekran Görüntüleri
-`screenshots/` klasörüne eklenecek.
+![Ekran görüntüsü](./screenshots/screenshot.png)
+
 
 not:yaparken bazı yerleri daha basit olması için yapay zekadan destek aldım kusura bakmayım saygılarımla. 
