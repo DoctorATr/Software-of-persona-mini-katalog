@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven Backpack",
+    "subtitle": "Gunluk kullanim icin ideal",
+    "description": "15 inch laptop gozlu, dayanikli ve hafif sirt cantasi. Gunluk kullanim ve kisa seyahatler icin uygundur.",
+    "price": 109.95,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXEHG-Z_XgD0BFowwNHMq8_u52gzTo5pollk_vFQ5KKUqSlDE9G0I2P3h&s=10",
+    "specs": {"Hacim": "18 L", "Malzeme": "Polyester", "Renk": "Lacivert"}
+  },
+  {
+    "id": 2,
+    "title": "Slim Fit T-Shirt",
+    "subtitle": "Rahat kesim, yumusak kumas",
+    "description": "Pamuklu, dar kesim, yuvarlak yaka tisort. Her mevsim rahatlikla giyilebilir.",
+    "price": 22.3,
+    "image": "https://static.ticimax.cloud/52816/uploads/urunresimleri/buyuk/erkek-slim-fit-bisiklet-yaka-basic-t-s-a4-b05.jpg",
+    "specs": {"Beden": "S - XL", "Malzeme": "Pamuk", "Renk": "3 renk"}
+  },
+  {
+    "id": 3,
+    "title": "Cotton Jacket",
+    "subtitle": "Ilik havalar icin",
+    "description": "Bahar ve sonbahar icin ideal, hafif pamuklu ceket. Fermuarli ve cepli.",
+    "price": 55.99,
+    "image": "https://cdn.myikas.com/images/6d452771-fa42-482d-a9a5-b47e65a5bf47/e1d7c865-01b4-4a01-8ec9-e32e274aa04b/3840/u3000249-b92-a.webp",
+    "specs": {"Beden": "M - XXL", "Malzeme": "Pamuk", "Renk": "Haki"}
+  },
+  {
+    "id": 4,
+    "title": "Casual Slim Fit",
+    "subtitle": "Sade ve sik gorunum",
+    "description": "Gunluk kullanim icin dar kesim, uzun kollu ust. Rahat ve sik bir gorunum sunar.",
+    "price": 15.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEh7GW9RQmi0XNa0y-ZUfUiYvmvOYhH5LChLZxVrWx3XUtQ1tnqR-Vzk&s=10",
+    "specs": {"Beden": "S - L", "Malzeme": "Pamuk", "Renk": "Gri"}
+  },
+  {
+    "id": 5,
+    "title": "Silver Bracelet",
+    "subtitle": "Zarif tasarim",
+    "description": "El yapimi gumus gorunumlu bileklik. Hediye icin uygun bir secenektir.",
+    "price": 695.0,
+    "image": "https://m.media-amazon.com/images/I/7101NwKCz-L._AC_UY1000_.jpg",
+    "specs": {"Malzeme": "Gumus", "Uzunluk": "18 cm", "Kutu": "Hediye kutusu"}
+  },
+  {
+    "id": 6,
+    "title": "Gold Ring",
+    "subtitle": "Sik ve sade",
+    "description": "Gunluk ve ozel gunlerde kullanilabilen sade tasarimli yuzuk.",
+    "price": 168.0,
+    "image": "https://ion.bluenile.com/sets/Jewelry/Photoshoot/Bluenile/Orbitvu/FineJewelry/601005/601005_Y_1_1600X1600.jpg",
+    "specs": {"Malzeme": "Altin kaplama", "Beden": "6 - 9", "Renk": "Altin"}
+  }
+]
