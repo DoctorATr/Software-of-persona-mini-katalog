@@ -1,0 +1,1 @@
+# Software-of-persona-mini-katalog
